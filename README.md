@@ -57,6 +57,6 @@
 
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
-* [![Kunal](https://img.shields.io/static/v1?label=Kunal&message=Github&color=critical)](https://github.com/kdbotz)
+* [![Kunal](https://img.shields.io/static/v1?label=Kunal&message=Github&color=critical)](https://github.com/ZafarSadique)
 * [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/x_kunal_01)
 
