@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/kdbotz/Lucifer",
-    "repository": "https://github.com/kdbotz/Lucifer",
+    "website": "https://github.com/ZafarSadique/Lucifer",
+    "repository": "https://github.com/ZafarSadique/Lucifer",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
