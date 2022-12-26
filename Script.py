@@ -358,7 +358,7 @@ Pʟᴇᴀsᴇ Wᴀɪᴛ Fᴏʀ Sᴏᴍᴇ Tɪᴍᴇ.</b></i>
     SGROUP_TXT = """
 <b>Dᴇᴀʀ, {}
 
-<code>{}</code> Rᴇsᴜʟᴛs Aʀᴇ Aʟʀᴇᴀᴅʏ Aᴠᴀɪʟᴀʙʟᴇ Fᴏʀ Yᴏᴜʀ Rᴇǫᴜᴇsᴛ <code>{}</code> Iɴ <a href=https://t.me/FILTER_LUCIFER_BOT>Oᴜʀ Bᴏᴛ</a>.</b>
+<code>{}</code> Rᴇsᴜʟᴛs Aʀᴇ Aʟʀᴇᴀᴅʏ Aᴠᴀɪʟᴀʙʟᴇ Fᴏʀ Yᴏᴜʀ Rᴇǫᴜᴇsᴛ <code>{}</code> Iɴ <a href=https://t.me/alluarjun09_bot>Oᴜʀ Bᴏᴛ</a>.</b>
 """
 
     DONE_UPLOAD = """
