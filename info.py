@@ -80,7 +80,7 @@ DELETE_TIME = int(environ.get('DELETE_TIME', 600))
 SPL_DELETE_TIME = int(environ.get('SPL_DELETE_TIME', 15))
 
 # URL SHORTNER
-
+VERIFY = bool(environ.get('VERIFY', False))
 URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'tnlink.in')
 URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '826eb92e893f6fdb42920983bba04c409bdc0b5d')
 
